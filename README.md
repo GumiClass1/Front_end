@@ -19,7 +19,7 @@
 <br>
 
 
-# <img src="README.assets/ggumtle4.png" height = 25px> 개발환경
+# 개발환경
 
 ### Backend
 
